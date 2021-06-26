@@ -1,7 +1,13 @@
-# ESPN-Cricinfo-IPL-Scraper
-Node.js app to scrape IPL batmen stats.
-Just run main.js file with node and its done.
-To change IPL year, change the url at the top of main.js(currently its set for IPL 2021)
-Url used is the **tournament home** at **espn cricinfo**.
+# ESPN-Cricinfo-IPL-Scraper 🔥🔥
+(made with Node.js)
+Scrape any year's IPL for every batman's stats like runs made, balls faces, 4s, 6s, S/R in each innings, with venue, date and result, organised in Excel Sheets.
 
-Try making sperate folder and copy code and run node from beginning(from npm init) if it doesnt work on your system.
+Update 2021 June
+
+Default Command: node main.js
+Custom Year Command: node main.js xxxx 
+                <!-- where xxxx = 2008 to 2021 -->
+                
+Will update every year after IPL! 
+
+(☞ﾟヮﾟ)☞
