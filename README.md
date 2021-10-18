@@ -2,7 +2,7 @@
 (made with Node.js)
 Scrape any year's IPL for every batman's stats like runs made, balls faced, 4s, 6s, S/R in each innings, with venue, date and result, organised in Excel Sheets.
 
-Update till IPL 2021
+Updated till IPL 2021
 
 Default Command: node main.js     
 Custom Year Command: node main.js xxxx     
